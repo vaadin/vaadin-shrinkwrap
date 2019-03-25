@@ -192,9 +192,9 @@
       }
     },
     "@vaadin/vaadin-combo-box": {
-      "version": "4.2.5",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-4.2.5.tgz",
-      "integrity": "sha512-2PNfa3aUFzylagoCvp8V/5BN1aiasC2UxjLw482gGSnVKox6245keIDADB6Ys/sucbVI74/yf2x88c1NdF42EQ==",
+      "version": "4.2.7",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-4.2.7.tgz",
+      "integrity": "sha512-0vv0d+1WismAgB04+PgTDlO/3h/+OH8XQbRgHbuf9FHZIgJaNhFoMiBASnSEOP/DgFFDggn5O8D7Hak4X7vzcg==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -407,12 +407,12 @@
       }
     },
     "@vaadin/vaadin-icons": {
-      "version": "4.2.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-icons/-/vaadin-icons-4.2.1.tgz",
-      "integrity": "sha512-O1UCcWrZqMhoeXgaW0pPWlNFRkDqbrgOG7ytmxUiG1cNvgA9/ifgCTPq0384lEhlENXJ4Ap4KZ9Qwo35UKSFLg==",
+      "version": "4.3.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-icons/-/vaadin-icons-4.3.1.tgz",
+      "integrity": "sha512-jeFOXpoId/pemr/JlhF7Z7kL/g7VmaQdqH+I9NZ2lW+IpE6/aapz1N6zPd+hIQs5tq/PWuivy8gKxFW+KxwdJg==",
       "requires": {
-        "@polymer/iron-icon": "^3.0.0-pre.18",
-        "@polymer/iron-iconset-svg": "^3.0.0-pre.18",
+        "@polymer/iron-icon": "^3.0.0",
+        "@polymer/iron-iconset-svg": "^3.0.0",
         "@polymer/polymer": "^3.0.0"
       }
     },
@@ -473,9 +473,9 @@
       }
     },
     "@vaadin/vaadin-lumo-styles": {
-      "version": "1.4.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-lumo-styles/-/vaadin-lumo-styles-1.4.1.tgz",
-      "integrity": "sha512-v0dYpXXEhRv5xhF9rQ4+BPXQWk/z6R1TOm9iNOI75UCqX8llS9E+SVeGFiB/w4PzgFlFK72DVJrtiwoUsSADzQ==",
+      "version": "1.4.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-lumo-styles/-/vaadin-lumo-styles-1.4.2.tgz",
+      "integrity": "sha512-6JrmxxQRkDfght5JiViVtd9xoIEwFAHIZjgEwW5ygQw2Zbr++vz6+9oBe6l93nM5JjOMHjR/TXW/+md0FrAZ+w==",
       "requires": {
         "@polymer/iron-icon": "^3.0.0",
         "@polymer/iron-iconset-svg": "^3.0.0",

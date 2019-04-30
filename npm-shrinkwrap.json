@@ -192,9 +192,9 @@
       }
     },
     "@vaadin/vaadin-combo-box": {
-      "version": "4.2.8",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-4.2.8.tgz",
-      "integrity": "sha512-a83E/wUlYRpnDE5qeueDLyY7PgKoaKwo6r16MGbJQDFL6Pc4giM8dhSB8UKceBl0PS0tD7sBnxUT9Uu/7iJXjQ==",
+      "version": "4.2.9",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-4.2.9.tgz",
+      "integrity": "sha512-FKWPWRwTJe8wYz3mv70nE4WfDWPFPsEkfdsXvwoEFh3QdCX3ROslXHEE68t/3sSR2yzMfG/ounBrwOCJ7BCm/g==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -614,9 +614,9 @@
       }
     },
     "@vaadin/vaadin-text-field": {
-      "version": "2.3.6",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.3.6.tgz",
-      "integrity": "sha512-hnplcCBQy4XBUyRoS2pTa6eV/XaJhgEEbXr4nDJYpuvQqla3WUSbQHz4OU9aOX5VZYsDYd8OAHUPtSMcrA7Nwg==",
+      "version": "2.3.7",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.3.7.tgz",
+      "integrity": "sha512-g4/Gq0MFBt1DBsniJwVDxesyo/Qw9cEVvXmhFaLaOv0lEoGVU74weLoIHcEBxzGFxbYdiD+SzYuh49P9EIbXkA==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.1.1",
@@ -665,9 +665,9 @@
       }
     },
     "@vaadin/vaadin-usage-statistics": {
-      "version": "2.0.2",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-usage-statistics/-/vaadin-usage-statistics-2.0.2.tgz",
-      "integrity": "sha512-emu6IttPhlfH7chc3tvvZyztULtrMhNi6SK6BPXe7hN9PvF3XZfLLtVHxQMbJid85yYDcynKSyKznlhDkyrc7Q==",
+      "version": "2.0.3",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-usage-statistics/-/vaadin-usage-statistics-2.0.3.tgz",
+      "integrity": "sha512-ZEwXQF0fO5IYoL10Sv4/KQ8dWrLuM3n5XPuzACAa+YtVtE+S4pq3Tunj2t08rJfOGFN1Mi35vLpku3jPNuY/fA==",
       "requires": {
         "@vaadin/vaadin-development-mode-detector": "^2.0.0"
       }

@@ -131,9 +131,9 @@
       }
     },
     "@vaadin/vaadin-app-layout": {
-      "version": "2.0.0-alpha2",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-app-layout/-/vaadin-app-layout-2.0.0-alpha2.tgz",
-      "integrity": "sha512-Wb9K9wiIFlAEQOGvyoQV3eXKQuYZQEQQNkiOua/n1UxAI9ajTWW/OuQCO96s6S67lF7WpHP3mPL3MY/noQyjsA==",
+      "version": "2.0.0-beta1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-app-layout/-/vaadin-app-layout-2.0.0-beta1.tgz",
+      "integrity": "sha512-iDSqBzJqG642O0OlbyeAM4fFsY32wG1o3gIFKkku92JeUZ5KMol1aDjjQxBD7YRZnLhDOn58ORK5+/yPeQry/A==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-button": "^2.1.0",

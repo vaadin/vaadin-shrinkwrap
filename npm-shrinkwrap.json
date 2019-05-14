@@ -228,9 +228,9 @@
       }
     },
     "@vaadin/vaadin-context-menu": {
-      "version": "4.3.4",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-context-menu/-/vaadin-context-menu-4.3.4.tgz",
-      "integrity": "sha512-wmApRmcLdSrsS/RMW2va+26lVilaUsIpIPXW8VKbDPQ//dc00K8f1eDU0OweJ/k/rPcqzzVERg8HyTef/fOxCQ==",
+      "version": "4.3.5",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-context-menu/-/vaadin-context-menu-4.3.5.tgz",
+      "integrity": "sha512-hnVZmP4Mylanv4fC+PwiuPPpBlBkkmDo4nou11zzumEEK1bki9uZzJij40NBauNMfxqsdn2QDvNvW7t4eHWa9w==",
       "requires": {
         "@polymer/iron-media-query": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
@@ -252,16 +252,17 @@
       }
     },
     "@vaadin/vaadin-cookie-consent": {
-      "version": "1.1.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-cookie-consent/-/vaadin-cookie-consent-1.1.0.tgz",
-      "integrity": "sha512-4JvqTiDxqzMU3avTwjlV7oXs/Vh+cvsoA6L8BH1cICkXPI/TJZqQWM5Bo/HDGi4Gavib95KGXxa0j0XE+GYoWQ==",
+      "version": "1.1.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-cookie-consent/-/vaadin-cookie-consent-1.1.1.tgz",
+      "integrity": "sha512-JFpeU8hqLxj4W1NkvIB8QmJZvo/b/+7jTHuXW0r4dx4CuWq1p5mpUKH19jU6LdsS39+2zstEx9FbQB5BZ1Yz3w==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-element-mixin": "^2.0.0",
         "@vaadin/vaadin-license-checker": "^2.1.0",
         "@vaadin/vaadin-lumo-styles": "^1.1.0",
         "@vaadin/vaadin-material-styles": "^1.1.0",
-        "@vaadin/vaadin-themable-mixin": "^1.2.0"
+        "@vaadin/vaadin-themable-mixin": "^1.2.0",
+        "cookieconsent": "^3.0.6"
       }
     },
     "@vaadin/vaadin-crud": {
@@ -473,9 +474,9 @@
       }
     },
     "@vaadin/vaadin-lumo-styles": {
-      "version": "1.4.2",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-lumo-styles/-/vaadin-lumo-styles-1.4.2.tgz",
-      "integrity": "sha512-6JrmxxQRkDfght5JiViVtd9xoIEwFAHIZjgEwW5ygQw2Zbr++vz6+9oBe6l93nM5JjOMHjR/TXW/+md0FrAZ+w==",
+      "version": "1.5.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-lumo-styles/-/vaadin-lumo-styles-1.5.0.tgz",
+      "integrity": "sha512-9e9n7rH5IlzsAhRWvBt6C8roXbdNILKyKMJPwbN9I6zsPwzFhG5y2y5IY59Q5Ijj8aXvHuLV+Icjogc+2KU5fg==",
       "requires": {
         "@polymer/iron-icon": "^3.0.0",
         "@polymer/iron-iconset-svg": "^3.0.0",
@@ -676,6 +677,11 @@
       "version": "1.9.0",
       "resolved": "https://registry.npmjs.org/@webcomponents/shadycss/-/shadycss-1.9.0.tgz",
       "integrity": "sha512-g8Xa+6RSEME4g/wLJW4YII0eq15rvXp76RxPAuv7hx+Bdoi7GzZJ/EoZOUfyIbqAsQbII1TcWD4/+Xhs5NcM1w=="
+    },
+    "cookieconsent": {
+      "version": "3.1.0",
+      "resolved": "https://registry.npmjs.org/cookieconsent/-/cookieconsent-3.1.0.tgz",
+      "integrity": "sha512-FhkOAzZdIVqg7UfPjymgJBA7ZeEjrMgO8RWh+1Z130K7TlJDNnIORMulvqmt66SPyfrUnFB3SYJ55/7EvEcSEA=="
     },
     "highcharts": {
       "version": "6.1.4",

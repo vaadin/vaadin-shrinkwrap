@@ -229,9 +229,9 @@
       }
     },
     "@vaadin/vaadin-context-menu": {
-      "version": "4.3.11",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-context-menu/-/vaadin-context-menu-4.3.11.tgz",
-      "integrity": "sha512-YGla/fJj0xgghGkkqUkYDySLGnr2SZ4/G+CPhmwAJGl+TR0CdEQwMSNMAS2SoRwNeJvqKHdgu0oyAXkJdE3MUQ==",
+      "version": "4.3.12",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-context-menu/-/vaadin-context-menu-4.3.12.tgz",
+      "integrity": "sha512-DZsP8g7ZHXyb9XW75htHssyzuX5dM6yT25CieewxENxwCdJ3IWFj0C4OZTyjvCu9Z1q+/BAVObse90ziPg3/eg==",
       "requires": {
         "@polymer/iron-media-query": "^3.0.0",
         "@polymer/polymer": "^3.0.0",

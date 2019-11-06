@@ -267,9 +267,9 @@
       }
     },
     "@vaadin/vaadin-crud": {
-      "version": "1.1.0-alpha5",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-crud/-/vaadin-crud-1.1.0-alpha5.tgz",
-      "integrity": "sha512-KVPpHquQM7rTJj8RNPh4OK1TSglKZceCyq3WbCd09jLcHAB9okKce9tpPMK4p3msaqMb0Cye6bqma2b29Vg1pg==",
+      "version": "1.1.0-beta1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-crud/-/vaadin-crud-1.1.0-beta1.tgz",
+      "integrity": "sha512-1lpf8/m45B7v5q1kMtj0o8ysLyFtJIqOdu03CMwFbJpXojVUs7+0CA+EPH4evD1a/LPk0PmMxdEYE6kAqDT9Cg==",
       "requires": {
         "@polymer/iron-media-query": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
@@ -646,11 +646,12 @@
       }
     },
     "@vaadin/vaadin-themable-mixin": {
-      "version": "1.5.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-themable-mixin/-/vaadin-themable-mixin-1.5.1.tgz",
-      "integrity": "sha512-wZIafKCeLaQw5v0EmrgXG4okyMeX4EhyGp192AXjLmJttzxViq0JF2YFGxDM80PcoA30q1P2PW0VLtrJNp5btg==",
+      "version": "1.5.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-themable-mixin/-/vaadin-themable-mixin-1.5.2.tgz",
+      "integrity": "sha512-3EsVOhE5lo/nRyX27+nOyPNsV5TtKInTKirldUqucGZZtcyWT4ZxqAxswIz3bAolnb17UDb8eJKHOH6ERMLEhg==",
       "requires": {
-        "@polymer/polymer": "^3.0.0"
+        "@polymer/polymer": "^3.0.0",
+        "lit-element": "^2.0.0"
       }
     },
     "@vaadin/vaadin-time-picker": {
@@ -705,6 +706,19 @@
       "version": "6.1.4",
       "resolved": "https://registry.npmjs.org/highcharts/-/highcharts-6.1.4.tgz",
       "integrity": "sha512-m7uK2dvDmop4wAgB7RQjODS894HqNrxRUJh+Px7n1PsNyb7+aO22cRxx2rhvjmy1R8Q3Tf5I03AbjN5oAYyWSw=="
+    },
+    "lit-element": {
+      "version": "2.2.1",
+      "resolved": "https://registry.npmjs.org/lit-element/-/lit-element-2.2.1.tgz",
+      "integrity": "sha512-ipDcgQ1EpW6Va2Z6dWm79jYdimVepO5GL0eYkZrFvdr0OD/1N260Q9DH+K5HXHFrRoC7dOg+ZpED2XE0TgGdXw==",
+      "requires": {
+        "lit-html": "^1.0.0"
+      }
+    },
+    "lit-html": {
+      "version": "1.1.2",
+      "resolved": "https://registry.npmjs.org/lit-html/-/lit-html-1.1.2.tgz",
+      "integrity": "sha512-FFlUMKHKi+qG1x1iHNZ1hrtc/zHmfYTyrSvs3/wBTvaNtpZjOZGWzU7efGYVpgp6KvWeKF6ql9/KsCq6Z/mEDA=="
     }
   }
 }

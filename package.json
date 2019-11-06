@@ -48,7 +48,7 @@
     "@vaadin/vaadin-split-layout": "^4.1.1",
     "@vaadin/vaadin-tabs": "^3.0.5",
     "@vaadin/vaadin-text-field": "^2.5.0",
-    "@vaadin/vaadin-themable-mixin": "^1.5.1",
+    "@vaadin/vaadin-themable-mixin": "^1.5.2",
     "@vaadin/vaadin-upload": "^4.2.2",
     "@vaadin/vaadin-custom-field": "^1.0.6",
     "@vaadin/vaadin-app-layout": "^2.0.3",
@@ -58,7 +58,7 @@
     "@vaadin/vaadin-charts": "^6.2.3",
     "@vaadin/vaadin-confirm-dialog": "^1.1.4",
     "@vaadin/vaadin-cookie-consent": "^1.1.1",
-    "@vaadin/vaadin-crud": "^1.1.0-alpha5",
+    "@vaadin/vaadin-crud": "^1.1.0-beta1",
     "@vaadin/vaadin-grid-pro": "^2.0.4",
     "@vaadin/vaadin-rich-text-editor": "^1.1.0"
   },

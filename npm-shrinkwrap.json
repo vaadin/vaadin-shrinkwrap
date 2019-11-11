@@ -118,9 +118,9 @@
       }
     },
     "@vaadin/router": {
-      "version": "1.5.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/router/-/router-1.5.0.tgz",
-      "integrity": "sha512-MWrmkTuBBTT7NM+kNloYOJn/LYEft7cowU3K+EnXWisq3q2O7xgXhl3Ni2nC0pSMs8Gx470LAXfz3wCmqC7Hpw==",
+      "version": "1.5.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/router/-/router-1.5.2.tgz",
+      "integrity": "sha512-Byjz/FQ7ohGZRrxZnoZ2DJgTUWtj7YLKFY9L4iaWw/NW9fklPyn+wYRgPfLc/uk3srBr1Hc9JWg/b++lE6lyfw==",
       "requires": {
         "@vaadin/vaadin-usage-statistics": "^2.0.8",
         "path-to-regexp": "2.4.0"

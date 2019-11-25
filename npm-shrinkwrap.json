@@ -131,9 +131,9 @@
       }
     },
     "@vaadin/vaadin-app-layout": {
-      "version": "2.0.3",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-app-layout/-/vaadin-app-layout-2.0.3.tgz",
-      "integrity": "sha512-RiMpcK3hswvwEcczYt2PD9NJX6D3CMaxoTSRo4jz6jJQ5G9oFkBDEpb3Fi7YwDrftPTivg9u9yPqXEWsY/XguA==",
+      "version": "2.0.4",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-app-layout/-/vaadin-app-layout-2.0.4.tgz",
+      "integrity": "sha512-dDCQv245aBFjwMhJERgQuWJ8pHVPdfKnd4aOmr/o85BDugOWjdSCD7selugVfYjPR07yhjlUtlZFcA8SdoF+ow==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-button": "^2.1.0",
@@ -229,9 +229,9 @@
       }
     },
     "@vaadin/vaadin-context-menu": {
-      "version": "4.3.12",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-context-menu/-/vaadin-context-menu-4.3.12.tgz",
-      "integrity": "sha512-DZsP8g7ZHXyb9XW75htHssyzuX5dM6yT25CieewxENxwCdJ3IWFj0C4OZTyjvCu9Z1q+/BAVObse90ziPg3/eg==",
+      "version": "4.3.13",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-context-menu/-/vaadin-context-menu-4.3.13.tgz",
+      "integrity": "sha512-zlRJkWrCAZ/6IFKM3JLD/nWWN0EO9nvAEh8JU6XCwxQnIOjR6n+cy8ikbR8eTImX1ygZK3HL3V7ZM7yyvO5oIQ==",
       "requires": {
         "@polymer/iron-media-query": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
@@ -287,9 +287,9 @@
       }
     },
     "@vaadin/vaadin-custom-field": {
-      "version": "1.0.6",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-custom-field/-/vaadin-custom-field-1.0.6.tgz",
-      "integrity": "sha512-OaiqNJS7HdHeGEZUxuYRCj3IY3h2+4V688vIOCawzojvwUGY35tucD1X7elqS3f8NmZLlauDPVUW09esuVtGTw==",
+      "version": "1.0.9",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-custom-field/-/vaadin-custom-field-1.0.9.tgz",
+      "integrity": "sha512-9v5OMWs/rOlHg0NtjDUBEa6b7qg9RsdenzV8hU7sunNtdgaLbSOJEWOg43xeJKGJbKeAPmS5ksGYjYPRZa9uFg==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-element-mixin": "^2.0.0",

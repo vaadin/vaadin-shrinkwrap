@@ -118,11 +118,11 @@
       }
     },
     "@vaadin/router": {
-      "version": "1.5.2",
-      "resolved": "https://registry.npmjs.org/@vaadin/router/-/router-1.5.2.tgz",
-      "integrity": "sha512-Byjz/FQ7ohGZRrxZnoZ2DJgTUWtj7YLKFY9L4iaWw/NW9fklPyn+wYRgPfLc/uk3srBr1Hc9JWg/b++lE6lyfw==",
+      "version": "1.6.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/router/-/router-1.6.0.tgz",
+      "integrity": "sha512-uBmk84cSQt4BwFJE/n3SutAd3TSzUceQsbMIN3ss9bjuhAcSXPJoX39uaUiQrAtdz44TlveEzYuzNgPStQqWmA==",
       "requires": {
-        "@vaadin/vaadin-usage-statistics": "^2.0.8",
+        "@vaadin/vaadin-usage-statistics": "^2.1.0",
         "path-to-regexp": "2.4.0"
       }
     },
@@ -542,9 +542,9 @@
       }
     },
     "@vaadin/vaadin-overlay": {
-      "version": "3.2.16",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-overlay/-/vaadin-overlay-3.2.16.tgz",
-      "integrity": "sha512-wyXDs8A/7Dcld2AkcPUN+JLzHyulzT7jOUnhi9LFLpcfz+6qrgLIF/ZUIh1C3hz+KPopJi1Kboo+Icj+rBfD3w==",
+      "version": "3.2.18",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-overlay/-/vaadin-overlay-3.2.18.tgz",
+      "integrity": "sha512-5KsGIDn3hwwo1WXHA8wkhS+jwgoWOG4fWqgquMOKqtDd3sNbOvpXnEx+QZgGL6WHXMfxKsgGPzL8vBX1Avnkyw==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-lumo-styles": "^1.3.0",

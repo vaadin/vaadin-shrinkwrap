@@ -287,9 +287,9 @@
       }
     },
     "@vaadin/vaadin-custom-field": {
-      "version": "1.0.9",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-custom-field/-/vaadin-custom-field-1.0.9.tgz",
-      "integrity": "sha512-9v5OMWs/rOlHg0NtjDUBEa6b7qg9RsdenzV8hU7sunNtdgaLbSOJEWOg43xeJKGJbKeAPmS5ksGYjYPRZa9uFg==",
+      "version": "1.0.10",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-custom-field/-/vaadin-custom-field-1.0.10.tgz",
+      "integrity": "sha512-4Wmx1ilLlgSsrUTYsBlfgSeR808fpG0htnvRoSMuGZTEFBjJfjt7qMXrPGTipl47+Fsr5vEpOGtdAQUhMadRUQ==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-element-mixin": "^2.0.0",

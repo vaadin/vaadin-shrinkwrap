@@ -189,9 +189,9 @@
       }
     },
     "@vaadin/vaadin-checkbox": {
-      "version": "2.2.10",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-checkbox/-/vaadin-checkbox-2.2.10.tgz",
-      "integrity": "sha512-eRJakdHnheemwoed0FeSVYkksuzOeArUUYpmLWesb+AMUoVeOMswbR21BmAEPOOqLWOeSXXbCfNMmqvidNNTQw==",
+      "version": "2.2.12",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-checkbox/-/vaadin-checkbox-2.2.12.tgz",
+      "integrity": "sha512-BVggVXYF1blOuxk1DBhC9oQ7OoPgHQZKZNGFb/Ll213fx+bgne8nhjxxJ1YXMdcuhQherMwnI2jaNKFrHTHxEg==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.1.1",
@@ -296,9 +296,9 @@
       }
     },
     "@vaadin/vaadin-custom-field": {
-      "version": "1.0.9",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-custom-field/-/vaadin-custom-field-1.0.9.tgz",
-      "integrity": "sha512-9v5OMWs/rOlHg0NtjDUBEa6b7qg9RsdenzV8hU7sunNtdgaLbSOJEWOg43xeJKGJbKeAPmS5ksGYjYPRZa9uFg==",
+      "version": "1.0.10",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-custom-field/-/vaadin-custom-field-1.0.10.tgz",
+      "integrity": "sha512-4Wmx1ilLlgSsrUTYsBlfgSeR808fpG0htnvRoSMuGZTEFBjJfjt7qMXrPGTipl47+Fsr5vEpOGtdAQUhMadRUQ==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-element-mixin": "^2.0.0",
@@ -400,9 +400,9 @@
       }
     },
     "@vaadin/vaadin-grid-pro": {
-      "version": "2.0.5",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.0.5.tgz",
-      "integrity": "sha512-/GQeS9+Q2ULn20w+Q8+D4bMp0ylMqUr+ywkDbX8y/JCw5uBQQJU+Qu7C8ox6squ3F1TfkRkwNoTYthkAX8EmeQ==",
+      "version": "2.0.6",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.0.6.tgz",
+      "integrity": "sha512-S3sRB/CbFx9Jr+FUlUa36peQpC7lTjs5T2TNFlE/xxZav7j8Tih5wJ95T6c6gOUf4RVk2wzW4MJDmOZmUwoYvw==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-checkbox": "^2.2.1",

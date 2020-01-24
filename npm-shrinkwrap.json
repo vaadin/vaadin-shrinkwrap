@@ -164,9 +164,9 @@
       }
     },
     "@vaadin/vaadin-button": {
-      "version": "2.2.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-button/-/vaadin-button-2.2.1.tgz",
-      "integrity": "sha512-FjgC/NIRkmV5PVaZz4qvS7h8AJpAStcutZhn71gBeKVyKvSG4QUzZo1cP5XK050ZVOIQA/LFGimZfHVqJV350Q==",
+      "version": "2.2.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-button/-/vaadin-button-2.2.2.tgz",
+      "integrity": "sha512-FC1+7cTlPByCbcNJGQmWSXroYUNJe5CXSlJcWM1674xjKbeddXpdgD7eEHjfKvMjagT/Ws7s2VUFrTQb/D86vg==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.1.1",

@@ -222,9 +222,9 @@
       }
     },
     "@vaadin/vaadin-confirm-dialog": {
-      "version": "1.1.5",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-confirm-dialog/-/vaadin-confirm-dialog-1.1.5.tgz",
-      "integrity": "sha512-pSUh9kM3X139jMQfYxE3qQYaiJN373PiCSWGoWh8xeFol00bAHgau6QoO5xlDx7cei8nt0Iao9cgdqvBW+X0bA==",
+      "version": "1.1.6",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-confirm-dialog/-/vaadin-confirm-dialog-1.1.6.tgz",
+      "integrity": "sha512-7ksSzNPlUaB+0wkZy4mONe8lhpV/X5Vhc46pSO5oZVGqQX0c8dh51yTXBOvNvTLbYbSym+VEyM4+YjUNw+Guyg==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-button": "^2.1.0",
@@ -234,7 +234,7 @@
         "@vaadin/vaadin-lumo-styles": "^1.1.0",
         "@vaadin/vaadin-material-styles": "^1.1.0",
         "@vaadin/vaadin-overlay": "^3.2.0",
-        "@vaadin/vaadin-themable-mixin": "^1.2.0"
+        "@vaadin/vaadin-themable-mixin": "^1.4.0"
       }
     },
     "@vaadin/vaadin-context-menu": {
@@ -296,9 +296,9 @@
       }
     },
     "@vaadin/vaadin-custom-field": {
-      "version": "1.0.10",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-custom-field/-/vaadin-custom-field-1.0.10.tgz",
-      "integrity": "sha512-4Wmx1ilLlgSsrUTYsBlfgSeR808fpG0htnvRoSMuGZTEFBjJfjt7qMXrPGTipl47+Fsr5vEpOGtdAQUhMadRUQ==",
+      "version": "1.0.11",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-custom-field/-/vaadin-custom-field-1.0.11.tgz",
+      "integrity": "sha512-rDbSBahXAZdTsp4vRVGgwWnQX2gvXDBnmIV5jIDfTpc7GVIpkrd35kM9qUkJzMkTzSq6ewHon9RwbH8n4m+1Wg==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-element-mixin": "^2.0.0",
@@ -503,14 +503,14 @@
       }
     },
     "@vaadin/vaadin-menu-bar": {
-      "version": "1.0.3",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-menu-bar/-/vaadin-menu-bar-1.0.3.tgz",
-      "integrity": "sha512-VsCt5yqNWzSc3bzrwK8CZHMdArsTQNvoR+4oYDLr1+DvBSnRYuDD6dQiuhxjCNcx9qtcmuH6eTXTFfczD/jFqw==",
+      "version": "1.0.5",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-menu-bar/-/vaadin-menu-bar-1.0.5.tgz",
+      "integrity": "sha512-KCGskX1dfF+Wu8HuXpJtF08BGY9aDB4lVx9rDh32tUOBUZkuQfff+6y3qpLt0gfV+bSrdsW5OHGIOu6K1tKeWA==",
       "requires": {
         "@polymer/iron-resizable-behavior": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-button": "^2.1.4",
-        "@vaadin/vaadin-context-menu": "^4.3.8",
+        "@vaadin/vaadin-context-menu": "^4.3.12",
         "@vaadin/vaadin-element-mixin": "^2.0.0",
         "@vaadin/vaadin-lumo-styles": "^1.4.1",
         "@vaadin/vaadin-material-styles": "^1.2.2",

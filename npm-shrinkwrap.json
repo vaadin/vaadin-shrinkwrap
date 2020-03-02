@@ -131,9 +131,9 @@
       }
     },
     "@vaadin/vaadin-app-layout": {
-      "version": "2.0.4",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-app-layout/-/vaadin-app-layout-2.0.4.tgz",
-      "integrity": "sha512-dDCQv245aBFjwMhJERgQuWJ8pHVPdfKnd4aOmr/o85BDugOWjdSCD7selugVfYjPR07yhjlUtlZFcA8SdoF+ow==",
+      "version": "2.0.5",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-app-layout/-/vaadin-app-layout-2.0.5.tgz",
+      "integrity": "sha512-4Q2MTl5YNLt7IJm+69CVyjm8ZSVf7M0vncwKXU/F5E10XRqBoqYn63z0L5Z0Hb4LtY7p68M4NsYhOU6h5PMlhA==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-button": "^2.1.0",
@@ -299,9 +299,9 @@
       }
     },
     "@vaadin/vaadin-date-picker": {
-      "version": "4.0.6",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-picker/-/vaadin-date-picker-4.0.6.tgz",
-      "integrity": "sha512-jvQnnNghapxII/49hT/HVCyw4CLZ5+iuE89ajbg1r07TBLbQ9cu3goBSfbKD3YRL3wiYIq2bymjtiqyOnzcsHQ==",
+      "version": "4.0.7",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-picker/-/vaadin-date-picker-4.0.7.tgz",
+      "integrity": "sha512-7FHB9/yAwJe9Im9JQOl2TNbkmEkQlM0ziMnZF6OiVKwd6SjNlmzZ+PaPQaiR7Q1OvJ7tOE5K2rtUDZNg18EzYg==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -360,9 +360,9 @@
       }
     },
     "@vaadin/vaadin-form-layout": {
-      "version": "2.1.6",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-form-layout/-/vaadin-form-layout-2.1.6.tgz",
-      "integrity": "sha512-NINQT5c+z83jy7bQqAgghXfmHjTjlGSxZ64uboydgCxL7lCwkQ7CosDBxqXSEdsBVaXaucdAm6EOZJyr4a8zYQ==",
+      "version": "2.1.7",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-form-layout/-/vaadin-form-layout-2.1.7.tgz",
+      "integrity": "sha512-sYkHoGFg277VVwW0VJJ5WRo+27wpABmRjdcvpD2mLpcj8OfZINoq+/wB2AqJzjNfh/g24JXmJO4GMsAPZcXnDw==",
       "requires": {
         "@polymer/iron-resizable-behavior": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
@@ -373,9 +373,9 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.5.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.5.0.tgz",
-      "integrity": "sha512-QQ7NdP8ug8xh3WrTQTP+CB1HCPVjr462Zrnk2uCD4G8Wdw9KTzw9avuauwlMm9pv/CrsP19x5hJS+bmqYSJd5A==",
+      "version": "5.5.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.5.2.tgz",
+      "integrity": "sha512-0wMc60baLoyLgjmrvrBLIDamLC3ANSeWFbdZV77dATyC12xo3WFgd97tPWerPKf/9b4EIwWVjRowq2rz+9beNg==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -655,9 +655,9 @@
       }
     },
     "@vaadin/vaadin-time-picker": {
-      "version": "2.0.4",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-time-picker/-/vaadin-time-picker-2.0.4.tgz",
-      "integrity": "sha512-iw8kqJjgOcMnfbQ5mbbsBpkHIlXUPstePPbADa8hmXo9JsDI8damKCUa3dSgmxqGAv3WgtjAxO4S2awSmIsFng==",
+      "version": "2.0.6",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-time-picker/-/vaadin-time-picker-2.0.6.tgz",
+      "integrity": "sha512-bz5b3Kg1caMTJS0Vl9ciJdfR1HP4lC+MuExfs1njr5PYJiKsiyqhuZ4dLiWt1pCLaPxss2TM1Ovaiaao0t/V3w==",
       "requires": {
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
         "@polymer/polymer": "^3.0.0",

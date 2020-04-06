@@ -180,9 +180,9 @@
       }
     },
     "@vaadin/vaadin-checkbox": {
-      "version": "2.2.12",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-checkbox/-/vaadin-checkbox-2.2.12.tgz",
-      "integrity": "sha512-BVggVXYF1blOuxk1DBhC9oQ7OoPgHQZKZNGFb/Ll213fx+bgne8nhjxxJ1YXMdcuhQherMwnI2jaNKFrHTHxEg==",
+      "version": "2.2.13",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-checkbox/-/vaadin-checkbox-2.2.13.tgz",
+      "integrity": "sha512-r0of16oDAimipjgZnDhfmtf5CuZxrJHTvLsticFZ+5E6Wpl+IkCOEMD8fzaxOzsyeR3lmh8qtsnnP3xTIg296Q==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.1.1",
@@ -382,9 +382,9 @@
       "integrity": "sha512-S+PaFrZpK8uBIOnIHxjntTrgumd5ztuCnZww96ydGKXgo9whXfZsbMwDuD/102a/IuPUMyF+dh/n3PbWzJ6igA=="
     },
     "@vaadin/vaadin-dialog": {
-      "version": "2.3.0-alpha4",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-dialog/-/vaadin-dialog-2.3.0-alpha4.tgz",
-      "integrity": "sha512-RL9lZ9qLTKRHZ2S8RFeI2jpWxDfPjry76V5pmVEftKC9QEVNcDDllPi1mtWv4XuZ4l8dC5KH0ykzI2UVIr1cZg==",
+      "version": "2.3.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-dialog/-/vaadin-dialog-2.3.0.tgz",
+      "integrity": "sha512-Pbd65c4JOYps0Xa+ZpXnqQ8F3zlrCF0EJ2xG/IQEwQEJ5/K2TmNFkJyeDvquCiRM/GWl0c3YVK955WTvGU4QOQ==",
       "requires": {
         "@polymer/iron-resizable-behavior": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
@@ -437,9 +437,9 @@
       }
     },
     "@vaadin/vaadin-grid-pro": {
-      "version": "2.0.5",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.0.5.tgz",
-      "integrity": "sha512-/GQeS9+Q2ULn20w+Q8+D4bMp0ylMqUr+ywkDbX8y/JCw5uBQQJU+Qu7C8ox6squ3F1TfkRkwNoTYthkAX8EmeQ==",
+      "version": "2.0.7",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.0.7.tgz",
+      "integrity": "sha512-y3ZtztL4LWjWiM3oZ1goXLmaP4QzF8cQX9ANMhYEkYdDH0D+qbL/maH1lNCDtsMHoQ6FIsDXyXIcLqXM3NxGyg==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-checkbox": "^2.2.1",
@@ -567,9 +567,9 @@
       }
     },
     "@vaadin/vaadin-ordered-layout": {
-      "version": "1.2.0-alpha3",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-ordered-layout/-/vaadin-ordered-layout-1.2.0-alpha3.tgz",
-      "integrity": "sha512-pxwulCxO9FwNP3lhGMwhKZOH9N/nLX1g8h0kkGzqugkvWQHRHse0Vf8hedVnPsCp4pCWng1x1mNGza7lRtsRPg==",
+      "version": "1.2.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-ordered-layout/-/vaadin-ordered-layout-1.2.0.tgz",
+      "integrity": "sha512-srumEsOO599PmVX1L5oszNEz7sRHAhwn6LIDOFD+i9niGkFCq7Eijj2sGJ4KPWPA38XlzD2lo/zsM1wegf9o2Q==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-element-mixin": "^2.0.0",
@@ -692,9 +692,9 @@
       }
     },
     "@vaadin/vaadin-text-field": {
-      "version": "2.5.3",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.5.3.tgz",
-      "integrity": "sha512-jWCaKA0KLeb6v2R823Bk7V0jB1qLIAoG/z/wHzkkfqGwzvluBZJ9azri3sRuUZveALIrk4cU1qkfzo8GkppHuw==",
+      "version": "2.5.5",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.5.5.tgz",
+      "integrity": "sha512-y/g6d3l7oPJOwmrpEqEeF/+6LRlEXMS4bOrtvot8DWzAlybT6mFvcTjc5jt3v/JMi8pJNOkYy8Y8Uhlj08h3GA==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.1.1",
@@ -714,9 +714,9 @@
       }
     },
     "@vaadin/vaadin-time-picker": {
-      "version": "2.0.6",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-time-picker/-/vaadin-time-picker-2.0.6.tgz",
-      "integrity": "sha512-bz5b3Kg1caMTJS0Vl9ciJdfR1HP4lC+MuExfs1njr5PYJiKsiyqhuZ4dLiWt1pCLaPxss2TM1Ovaiaao0t/V3w==",
+      "version": "2.0.7",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-time-picker/-/vaadin-time-picker-2.0.7.tgz",
+      "integrity": "sha512-vLd132NZgYLe3k4d/iyAEfLEqH/J6VX1IVXUGmDNGR1YLX1Upjxpb/5UMDZcymg7dD5CEEvjvAept4fqAmKa5Q==",
       "requires": {
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
         "@polymer/polymer": "^3.0.0",

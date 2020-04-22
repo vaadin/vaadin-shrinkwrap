@@ -349,9 +349,9 @@
       }
     },
     "@vaadin/vaadin-date-time-picker": {
-      "version": "1.0.0-alpha6",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-time-picker/-/vaadin-date-time-picker-1.0.0-alpha6.tgz",
-      "integrity": "sha512-8mf91N4iPc2PplBfHXfvtZ0YeAgwQYOle15d3kjYSA5w/nBpIcXKL5IGokD1z309rC3kHSDOR4QlgiRvzP4yqQ==",
+      "version": "1.0.0-beta1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-time-picker/-/vaadin-date-time-picker-1.0.0-beta1.tgz",
+      "integrity": "sha512-ehZHZjEs3wNeRAuZa72vXGzE+B1GP3AhUPCtLA4G3FYQULJBp6+E7Ryqkazswf8VIvs73f8pZ238rpJntJPGyA==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-custom-field": "^1.0.11",

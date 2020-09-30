@@ -245,9 +245,9 @@
       }
     },
     "@vaadin/vaadin-control-state-mixin": {
-      "version": "2.2.3",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-control-state-mixin/-/vaadin-control-state-mixin-2.2.3.tgz",
-      "integrity": "sha512-a0a+Hh99fQ5ueKTmY6F0i94jOfdOwKFS9ppNs0amfQwO+Js5ZC84naLnyVMVtY87K98FQ1vEYqpzxDYZy6duPw==",
+      "version": "2.2.4",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-control-state-mixin/-/vaadin-control-state-mixin-2.2.4.tgz",
+      "integrity": "sha512-oGsNaWbM6RisY1LkyWYtwnw+DtSRSpkFDbemEOtkYezj+Hhsd9+07LqILaUU4pB0zPaRq+uq+2tKba/TL3t23g==",
       "requires": {
         "@polymer/polymer": "^3.0.0"
       }
@@ -389,9 +389,9 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.7.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.7.1.tgz",
-      "integrity": "sha512-jaGOq0AcFklg8NL/n9ezJbKHY5+XapH7TjWUFLgLqIxvdmWldhr6KU/ojrpVEJo2+ZxPcteTGHh2wF5QfAs/DQ==",
+      "version": "5.7.4",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.7.4.tgz",
+      "integrity": "sha512-mlkdyUZVj5gChx/AQQrQ6FINuqT+Iz6QZ9t/Oo5w+6EpUlaXX6/gFp/SLUGqFafC68V3nvc0FVXejfEgzsKRmQ==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",

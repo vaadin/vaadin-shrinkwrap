@@ -189,9 +189,9 @@
       }
     },
     "@vaadin/vaadin-checkbox": {
-      "version": "2.4.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-checkbox/-/vaadin-checkbox-2.4.0.tgz",
-      "integrity": "sha512-cRWek/v6UT05V0vuK5oPh3I7jSKIyNY8jo2RSyFrSBcFnvSvjk7tRayiIxDs1QigfZaTKSs8Hnga50Ri9nJZ0w==",
+      "version": "2.5.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-checkbox/-/vaadin-checkbox-2.5.0.tgz",
+      "integrity": "sha512-56DsET7CTvqVsVPNKuGdUuCY+uxyUydRZSf6V6yyaRSNFA3zKWJQ6ixzIxiXSR91fnpVXA75j1+GnLsnVfvV3A==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.1",
@@ -202,9 +202,9 @@
       }
     },
     "@vaadin/vaadin-combo-box": {
-      "version": "5.3.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-5.3.0.tgz",
-      "integrity": "sha512-wk7JhoCotcEpyFZix2ZB6ieeuKBEc7JeFJIHt3N5mVAl6TB7Z2VV9GoDUP6Wlf392MrSODXfpq25MbwSPiq3cQ==",
+      "version": "5.4.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-5.4.1.tgz",
+      "integrity": "sha512-nFQd/3cRWhmsZhJ188wdW2zOiXaVXuj1DoykbAfm6m5qk9sMxtllH2NEbwLz03koesE6t8Hrl9bptUVzCqCnOA==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -217,7 +217,7 @@
         "@vaadin/vaadin-lumo-styles": "^1.1.1",
         "@vaadin/vaadin-material-styles": "^1.1.2",
         "@vaadin/vaadin-overlay": "^3.5.0",
-        "@vaadin/vaadin-text-field": "^2.7.0",
+        "@vaadin/vaadin-text-field": "^2.8.0",
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },
@@ -296,9 +296,9 @@
       }
     },
     "@vaadin/vaadin-custom-field": {
-      "version": "1.2.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-custom-field/-/vaadin-custom-field-1.2.0.tgz",
-      "integrity": "sha512-ppT+fQt5Ji97g4ImFWpe/V+DNcSuwofcPg7JqXpvRc9Nhlx5/fs+gsId125xQtYQ6ZHmMo4I2+AWiNQgXjdlwQ==",
+      "version": "1.3.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-custom-field/-/vaadin-custom-field-1.3.0.tgz",
+      "integrity": "sha512-NQquU6RlR7TBgdPLSCZ9Zc1WMRvi/h8y8tQ4OGuxplnEFbKM3Koc9viV9lsRheiTzMMVteip5WsS7bVaMEDkDg==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-element-mixin": "^2.4.1",
@@ -308,9 +308,9 @@
       }
     },
     "@vaadin/vaadin-date-picker": {
-      "version": "4.3.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-picker/-/vaadin-date-picker-4.3.0.tgz",
-      "integrity": "sha512-eZIxgbWIjEDMK0nwBkXKAtHVknaEcyNWm9LQiiYmspqBHLlIvitBG6VvXm7EZzIBzzGg+rkow1dIc1Tn0sFsYg==",
+      "version": "4.4.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-picker/-/vaadin-date-picker-4.4.1.tgz",
+      "integrity": "sha512-BVUrrnCIdPt6jkIC5RHsjsjDR5KanEAGNxJ9gBM70pQsvZEBksmKo1RJwXvra1uXHLHl8gyz4W+p3MRUDqX1fA==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -323,23 +323,23 @@
         "@vaadin/vaadin-lumo-styles": "^1.6.0",
         "@vaadin/vaadin-material-styles": "^1.3.2",
         "@vaadin/vaadin-overlay": "^3.5.0",
-        "@vaadin/vaadin-text-field": "^2.7.0",
+        "@vaadin/vaadin-text-field": "^2.8.0",
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },
     "@vaadin/vaadin-date-time-picker": {
-      "version": "1.3.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-time-picker/-/vaadin-date-time-picker-1.3.0.tgz",
-      "integrity": "sha512-t+jBtpku686Xk2LaWDMnONqeTy71XOoepHkaU6M70T+TE9nDqauJRsjH3SuhzCqJOaXK/fSJJPhqPzSOrQGioQ==",
+      "version": "1.4.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-time-picker/-/vaadin-date-time-picker-1.4.0.tgz",
+      "integrity": "sha512-fCtCqd9UYKcYjzltxLra7tgEkerQsYUiMZD2Hz4TYU8Tnb/LCt2A/9wQgtbxSapctqKLWfgQ7TgkMy51nRQtlA==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
-        "@vaadin/vaadin-custom-field": "^1.2.0",
-        "@vaadin/vaadin-date-picker": "^4.3.0",
+        "@vaadin/vaadin-custom-field": "^1.3.0",
+        "@vaadin/vaadin-date-picker": "^4.4.0",
         "@vaadin/vaadin-element-mixin": "^2.4.1",
         "@vaadin/vaadin-lumo-styles": "^1.6.0",
         "@vaadin/vaadin-material-styles": "^1.3.2",
         "@vaadin/vaadin-themable-mixin": "^1.6.1",
-        "@vaadin/vaadin-time-picker": "^2.3.0"
+        "@vaadin/vaadin-time-picker": "^2.4.0"
       }
     },
     "@vaadin/vaadin-details": {
@@ -361,9 +361,9 @@
       "integrity": "sha512-S+PaFrZpK8uBIOnIHxjntTrgumd5ztuCnZww96ydGKXgo9whXfZsbMwDuD/102a/IuPUMyF+dh/n3PbWzJ6igA=="
     },
     "@vaadin/vaadin-dialog": {
-      "version": "2.5.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-dialog/-/vaadin-dialog-2.5.0.tgz",
-      "integrity": "sha512-apvr6VpHDnHXiYu8KxZdwCNA1CkD7aHIgdt5jUaRr1rW2bVaH9W6yYKl0LMmz2yiMEjdXkx/n/m3FfBlg7fyvA==",
+      "version": "2.5.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-dialog/-/vaadin-dialog-2.5.2.tgz",
+      "integrity": "sha512-rnJtP+3b4SpnAvTrlVcck87Hd5TMSVtGyOrL8S9tlemGeDfoQaZ3Tqia/atSQaHAkUzdW/b5MAA8ENmdKDDJpg==",
       "requires": {
         "@polymer/iron-resizable-behavior": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
@@ -398,9 +398,9 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.7.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.7.0.tgz",
-      "integrity": "sha512-fzzlfse1DYLy9DQ7MHMyciMaDRsclC5ouMbaRJ7ZprVl8IuB4/fnuB5GaJd0nghsUslB3v2tnoYHrEq8I+EOvA==",
+      "version": "5.7.4",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.7.4.tgz",
+      "integrity": "sha512-mlkdyUZVj5gChx/AQQrQ6FINuqT+Iz6QZ9t/Oo5w+6EpUlaXX6/gFp/SLUGqFafC68V3nvc0FVXejfEgzsKRmQ==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -416,9 +416,9 @@
       }
     },
     "@vaadin/vaadin-grid-pro": {
-      "version": "2.2.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.2.0.tgz",
-      "integrity": "sha512-K2vyrUqdi0l9WLN8UrXjsJU4iat1eiMwBoULEYawaT0YsrZDz22XCz6IkKzQf2ljkXMBC40OZtmion+L3AG6uw==",
+      "version": "2.2.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.2.2.tgz",
+      "integrity": "sha512-AbAvSzsVRlCrYvneA/zXkqW80xPtYw+CLeyAvpEPet3csuQiDcWYp16Opl7BB2BDeo9jHMANyR9w4L1haKImBQ==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-checkbox": "^2.4.0",
@@ -584,9 +584,9 @@
       }
     },
     "@vaadin/vaadin-radio-button": {
-      "version": "1.4.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-radio-button/-/vaadin-radio-button-1.4.0.tgz",
-      "integrity": "sha512-uYTZ6ZsnDF/D7sRB5uc+yi/0AM1q2Qd27HW1nzJTxtbmPSo63CG/2urUnnUfQmD3W++juA4JiWyH74kMorWmQA==",
+      "version": "1.5.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-radio-button/-/vaadin-radio-button-1.5.1.tgz",
+      "integrity": "sha512-CF5I+VM8zPfHDlZPp8AvhqabbxB7dIgtRSjqwMJ9yVM/zT0QNxXp1BQUcS3e5tGTudOdHblgbiOI+KzUWbuYiA==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.1",
@@ -613,9 +613,9 @@
       }
     },
     "@vaadin/vaadin-select": {
-      "version": "2.3.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-select/-/vaadin-select-2.3.0.tgz",
-      "integrity": "sha512-TKX43i9yncl9ujfdcO822mcEMW3rT8kbX1Qk59FIXHDwEBbOg7mz+BmWr/LctF7ot4AlC/4olCuLO7/NXtOiAA==",
+      "version": "2.4.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-select/-/vaadin-select-2.4.0.tgz",
+      "integrity": "sha512-JUCsg/rBIyDcjnZmrXCu+G7a7QJtKquix/WI6L56yG8zgX5EP6p6Wt15G0bohDXGO0xvW+i8NCCO65EftjqnUw==",
       "requires": {
         "@polymer/iron-media-query": "^3.0.0",
         "@polymer/iron-resizable-behavior": "^3.0.0",
@@ -628,7 +628,7 @@
         "@vaadin/vaadin-lumo-styles": "^1.6.0",
         "@vaadin/vaadin-material-styles": "^1.3.2",
         "@vaadin/vaadin-overlay": "^3.5.0",
-        "@vaadin/vaadin-text-field": "^2.7.0",
+        "@vaadin/vaadin-text-field": "^2.8.0",
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },
@@ -661,9 +661,9 @@
       }
     },
     "@vaadin/vaadin-text-field": {
-      "version": "2.7.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.7.0.tgz",
-      "integrity": "sha512-FINnn0wxoPEdrXPlYxBgj+p3+NF0YkmYkh6XH6zD39TA2+8uMrM8GG6HdqDUVLtDt8Hv/UrUJKf8tht1Qhs53A==",
+      "version": "2.8.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.8.1.tgz",
+      "integrity": "sha512-SD+D9fzkLBdVwCJx451HuGqUTHxQKjl82rPu2wqF5VlDsW2TiCcQHfvQYFVJH65ynFVok1dyJQvQgaY4qtnwuQ==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.1",
@@ -683,18 +683,18 @@
       }
     },
     "@vaadin/vaadin-time-picker": {
-      "version": "2.3.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-time-picker/-/vaadin-time-picker-2.3.0.tgz",
-      "integrity": "sha512-0WU5/Mw6yu+i+U96lcDCurLh8zFlmtGlDySirv59t5rL9a16Cs9aslEf6+50o9NiUSQcXyRDM5PduXZnxV2j7w==",
+      "version": "2.4.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-time-picker/-/vaadin-time-picker-2.4.0.tgz",
+      "integrity": "sha512-HMl1cK2IH3aqkvnJ2MB8ABmMt6ezte4Qfx95UbzuES9+QBM6lFMdigcbCLT+I7MXN5syMXUbD10hoZ3heu59cw==",
       "requires": {
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
-        "@vaadin/vaadin-combo-box": "^5.3.0",
+        "@vaadin/vaadin-combo-box": "^5.4.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.2",
         "@vaadin/vaadin-element-mixin": "^2.4.1",
         "@vaadin/vaadin-lumo-styles": "^1.6.0",
         "@vaadin/vaadin-material-styles": "^1.3.2",
-        "@vaadin/vaadin-text-field": "^2.7.0",
+        "@vaadin/vaadin-text-field": "^2.8.0",
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },

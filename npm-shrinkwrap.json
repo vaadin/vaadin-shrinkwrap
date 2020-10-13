@@ -584,9 +584,9 @@
       }
     },
     "@vaadin/vaadin-radio-button": {
-      "version": "1.4.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-radio-button/-/vaadin-radio-button-1.4.0.tgz",
-      "integrity": "sha512-uYTZ6ZsnDF/D7sRB5uc+yi/0AM1q2Qd27HW1nzJTxtbmPSo63CG/2urUnnUfQmD3W++juA4JiWyH74kMorWmQA==",
+      "version": "1.5.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-radio-button/-/vaadin-radio-button-1.5.1.tgz",
+      "integrity": "sha512-CF5I+VM8zPfHDlZPp8AvhqabbxB7dIgtRSjqwMJ9yVM/zT0QNxXp1BQUcS3e5tGTudOdHblgbiOI+KzUWbuYiA==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.1",

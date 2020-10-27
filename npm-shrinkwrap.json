@@ -193,9 +193,9 @@
       }
     },
     "@vaadin/vaadin-combo-box": {
-      "version": "5.4.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-5.4.1.tgz",
-      "integrity": "sha512-nFQd/3cRWhmsZhJ188wdW2zOiXaVXuj1DoykbAfm6m5qk9sMxtllH2NEbwLz03koesE6t8Hrl9bptUVzCqCnOA==",
+      "version": "5.4.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-5.4.2.tgz",
+      "integrity": "sha512-iW0u+vJtWwPxi4L4mSY636X4VL+Jj76RZK8K2T0ngRUQy9fUt+3Gyoiu6ckCDobUldFCjWeIaBL32FRtdhDYkQ==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -389,9 +389,9 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.7.4",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.7.4.tgz",
-      "integrity": "sha512-mlkdyUZVj5gChx/AQQrQ6FINuqT+Iz6QZ9t/Oo5w+6EpUlaXX6/gFp/SLUGqFafC68V3nvc0FVXejfEgzsKRmQ==",
+      "version": "5.7.5",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.7.5.tgz",
+      "integrity": "sha512-7y7Sc/pNHm2JWQxiKGvctBIX+WOcI8GODhRM0rSEzmGJtCwtNXYDge5jQPnGXHS9SLwSbbsRoenC75tY6KTvHw==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",

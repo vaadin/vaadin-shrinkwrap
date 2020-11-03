@@ -152,6 +152,23 @@
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },
+    "@vaadin/vaadin-avatar": {
+      "version": "1.0.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-avatar/-/vaadin-avatar-1.0.1.tgz",
+      "integrity": "sha512-tm8YzQ6saAol5zpf4KENyilcYSScUE7YObTUjITSn4pwiDUBDViiPhg99wNHkh6IAlHn0TdCGeIlBVz1apm3wQ==",
+      "requires": {
+        "@polymer/iron-a11y-announcer": "^3.0.0",
+        "@polymer/iron-resizable-behavior": "^3.0.0",
+        "@polymer/polymer": "^3.0.0",
+        "@vaadin/vaadin-element-mixin": "^2.3.2",
+        "@vaadin/vaadin-item": "^2.2.0",
+        "@vaadin/vaadin-list-box": "^1.3.0",
+        "@vaadin/vaadin-lumo-styles": "^1.6.0",
+        "@vaadin/vaadin-material-styles": "^1.3.2",
+        "@vaadin/vaadin-overlay": "^3.4.1",
+        "@vaadin/vaadin-themable-mixin": "^1.6.1"
+      }
+    },
     "@vaadin/vaadin-board": {
       "version": "2.2.0",
       "resolved": "https://registry.npmjs.org/@vaadin/vaadin-board/-/vaadin-board-2.2.0.tgz",
@@ -202,9 +219,9 @@
       }
     },
     "@vaadin/vaadin-combo-box": {
-      "version": "5.4.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-5.4.1.tgz",
-      "integrity": "sha512-nFQd/3cRWhmsZhJ188wdW2zOiXaVXuj1DoykbAfm6m5qk9sMxtllH2NEbwLz03koesE6t8Hrl9bptUVzCqCnOA==",
+      "version": "5.4.4",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-5.4.4.tgz",
+      "integrity": "sha512-P1iJU8BYtl255A6sHkFt/0D5+nwrMfPUlIwL4OvVfo6OwqAjP4SS8+B4TKhrW4mg561yt4azUChEX3m8GW0Y6A==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -398,9 +415,9 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.7.4",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.7.4.tgz",
-      "integrity": "sha512-mlkdyUZVj5gChx/AQQrQ6FINuqT+Iz6QZ9t/Oo5w+6EpUlaXX6/gFp/SLUGqFafC68V3nvc0FVXejfEgzsKRmQ==",
+      "version": "5.7.6",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.7.6.tgz",
+      "integrity": "sha512-rsVmodJawyIU8Km1m3jcwfAyYMoTDbxk8IqivWSz9qH7bMKjAmM8h6MvwSydawLA3T8611KSzRQBgInEHOtCyg==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",

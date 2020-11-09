@@ -219,9 +219,9 @@
       }
     },
     "@vaadin/vaadin-combo-box": {
-      "version": "5.4.4",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-5.4.4.tgz",
-      "integrity": "sha512-P1iJU8BYtl255A6sHkFt/0D5+nwrMfPUlIwL4OvVfo6OwqAjP4SS8+B4TKhrW4mg561yt4azUChEX3m8GW0Y6A==",
+      "version": "5.4.6",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-5.4.6.tgz",
+      "integrity": "sha512-WmPTZh4maJo8bNQgXm+cLNYPG9VZVEyDq3ZM4dnpleBvtc5pLoLSVU20/DralRDONWXiFXHK6UtXSVMlHcoeXw==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -716,9 +716,9 @@
       }
     },
     "@vaadin/vaadin-upload": {
-      "version": "4.4.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-upload/-/vaadin-upload-4.4.0.tgz",
-      "integrity": "sha512-HLXotsPxJxQtjpUPBjY/lwM1n4GfzWo75vxKKZkdlh0NjYSmk7G6dq9iHyVp22zN4T03YwuTHwal6zvNoukXXg==",
+      "version": "4.4.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-upload/-/vaadin-upload-4.4.1.tgz",
+      "integrity": "sha512-2ghzKd7AhdUAQ1SmXTeplNYpQ/q2Zx8WFzLj3l3BGpOTd4pmW204SvqBlBf1k0gxF+4gehV5xtEMqih4TQDuHg==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-button": "^2.4.0",

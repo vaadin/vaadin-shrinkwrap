@@ -153,9 +153,9 @@
       }
     },
     "@vaadin/vaadin-avatar": {
-      "version": "1.0.2",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-avatar/-/vaadin-avatar-1.0.2.tgz",
-      "integrity": "sha512-lub1zQLa9581Kb7hbDYZmOHs72TmH5ogl6HwFQYVwW6OaD1PmxrBemCG7ag6ah2xI8uncDQEG449q/zXKkixmg==",
+      "version": "1.0.3",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-avatar/-/vaadin-avatar-1.0.3.tgz",
+      "integrity": "sha512-XIzYQLXqesW3V4XFecPAm5iC7MeBQSlYDKTV5ULLeJu7IJuVYzfm/EukU80WFZ2k7bPgSK8ICkhecK/tv0N1iQ==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-resizable-behavior": "^3.0.0",

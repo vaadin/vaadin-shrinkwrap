@@ -559,6 +559,21 @@
         "@vaadin/vaadin-themable-mixin": "^1.6.2"
       }
     },
+    "@vaadin/vaadin-messages": {
+      "version": "2.0.0-alpha1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-messages/-/vaadin-messages-2.0.0-alpha1.tgz",
+      "integrity": "sha512-W4KP/rpzD/VseBW7vGR9SNF0E7fqKl2szDy680f9x3HGF9pZBySVgaGdAIsD9Mw2MrSCTum94PYGyQ9fnwNC2A==",
+      "requires": {
+        "@polymer/polymer": "^3.0.0",
+        "@vaadin/vaadin-avatar": "^2.0.0",
+        "@vaadin/vaadin-button": "^2.4.0",
+        "@vaadin/vaadin-element-mixin": "^2.4.2",
+        "@vaadin/vaadin-lumo-styles": "^1.6.1",
+        "@vaadin/vaadin-material-styles": "^1.3.2",
+        "@vaadin/vaadin-text-field": "^3.0.1",
+        "@vaadin/vaadin-themable-mixin": "^1.6.2"
+      }
+    },
     "@vaadin/vaadin-notification": {
       "version": "1.6.1",
       "resolved": "https://registry.npmjs.org/@vaadin/vaadin-notification/-/vaadin-notification-1.6.1.tgz",

@@ -424,9 +424,9 @@
       }
     },
     "@vaadin/vaadin-grid-pro": {
-      "version": "2.3.0-alpha1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.3.0-alpha1.tgz",
-      "integrity": "sha512-A88cMn2e1nyLtub4BX/9cV6Z5Uesohy+XusxFRin9NxT71ovu0YJhzdc50Vz778hROpkKgvXgJc3a6iFuD/cfw==",
+      "version": "2.3.0-beta1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.3.0-beta1.tgz",
+      "integrity": "sha512-IItx+nLzDSXL513J2PXbzz8y0GIQuY2Oz0pLXDx9mcDqeOIk+h8iNB2jNRgE18smvXAYhrk8HMPfcDQOWQjG7Q==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-checkbox": "^2.4.0",

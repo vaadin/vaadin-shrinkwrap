@@ -406,9 +406,9 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.7.12",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.7.12.tgz",
-      "integrity": "sha512-CNug8XrXJftT/H3aSxqso1fDmgQdbZUwKhWxShLOLm9pzBztFAsa6Ie7OV59nNvSae6udkkKwyCoqa3T0JrO/w==",
+      "version": "5.7.13",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.7.13.tgz",
+      "integrity": "sha512-pkbN2BWefGWayc+bp3C1Vhoz/NvE9TWvARaS4BgoW8j2GgRA9wLY2ldjUgwXou2Awjh9Ow/LBNrqIoZgkhYOHA==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -424,9 +424,9 @@
       }
     },
     "@vaadin/vaadin-grid-pro": {
-      "version": "2.3.0-beta1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.3.0-beta1.tgz",
-      "integrity": "sha512-IItx+nLzDSXL513J2PXbzz8y0GIQuY2Oz0pLXDx9mcDqeOIk+h8iNB2jNRgE18smvXAYhrk8HMPfcDQOWQjG7Q==",
+      "version": "2.3.0-rc1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.3.0-rc1.tgz",
+      "integrity": "sha512-/ixAKqQwV5UAxn0D1jgwZLqQMN9Ykt6nzkjFoXL5SIPWRqwYFxOCJPHaQF8F9t0dXHzh4J6vaDLO/hplqDWk/g==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-checkbox": "^2.4.0",

@@ -210,9 +210,9 @@
       }
     },
     "@vaadin/vaadin-combo-box": {
-      "version": "5.4.9",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-5.4.9.tgz",
-      "integrity": "sha512-vIqkrSQ5/FynMxhZyT+/wd2PDpU6WwW1uOfNXaH5B5Rz4Ubl05ML2uCFe1y2OX2W+XHNnPZB3r7hkwD5j4kl4g==",
+      "version": "5.4.10",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-combo-box/-/vaadin-combo-box-5.4.10.tgz",
+      "integrity": "sha512-iOUMX68om+MD9novxjo2yjW2oriQmcjMsFNrOvMYYAx0r43kPlJwLaFDT4KFrOElT/0J7rgP72AURiQ6kBgr2A==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",

@@ -316,9 +316,9 @@
       }
     },
     "@vaadin/vaadin-date-picker": {
-      "version": "4.4.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-picker/-/vaadin-date-picker-4.4.1.tgz",
-      "integrity": "sha512-BVUrrnCIdPt6jkIC5RHsjsjDR5KanEAGNxJ9gBM70pQsvZEBksmKo1RJwXvra1uXHLHl8gyz4W+p3MRUDqX1fA==",
+      "version": "4.4.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-picker/-/vaadin-date-picker-4.4.2.tgz",
+      "integrity": "sha512-QvbdDDZN/v1YpO93DX13AcWzDd1nMbXr3PUIVmmmxfsUTEacOJ00UFhzrMOM9uq53vzPBOwzDrT2h5q5bmshYQ==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -559,9 +559,9 @@
       }
     },
     "@vaadin/vaadin-notification": {
-      "version": "1.6.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-notification/-/vaadin-notification-1.6.1.tgz",
-      "integrity": "sha512-NkS2XyhvrKYomKtfZ6X4V7lGjzQGPcxAX0jH1SHxakSImp9N+EbbH3u4JEZ3sTTuWUn3NQ2SRByAcAbvBmoneA==",
+      "version": "1.6.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-notification/-/vaadin-notification-1.6.2.tgz",
+      "integrity": "sha512-Pdw9OZwj1fF1AiWDwDDVZDML386stg+rj6tWpofGRu+MneAnt9yfT8OJHDv29eSUFemIiEuy1+ZCTnH++ZosOA==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-element-mixin": "^2.4.1",
@@ -647,9 +647,9 @@
       }
     },
     "@vaadin/vaadin-select": {
-      "version": "2.4.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-select/-/vaadin-select-2.4.1.tgz",
-      "integrity": "sha512-0wcGqfjcfxqwNL7dabjV6dHabJq8z4/dWeb71sPI7WhsOKd5vfCgKeyAVcRR5P4ypLlX3xY3MqDzpcSFAOoqTg==",
+      "version": "2.4.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-select/-/vaadin-select-2.4.2.tgz",
+      "integrity": "sha512-4eK59JFXVgXx3rQasOjbRRG4AmdowK2VlJrkfOxJfYDalZshM+xL8k9v+Gch0rmSLjIOLBVeVPSw0cv0sdVQgA==",
       "requires": {
         "@polymer/iron-media-query": "^3.0.0",
         "@polymer/iron-resizable-behavior": "^3.0.0",

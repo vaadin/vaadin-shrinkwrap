@@ -364,9 +364,9 @@
       }
     },
     "@vaadin/vaadin-development-mode-detector": {
-      "version": "2.0.4",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-development-mode-detector/-/vaadin-development-mode-detector-2.0.4.tgz",
-      "integrity": "sha512-S+PaFrZpK8uBIOnIHxjntTrgumd5ztuCnZww96ydGKXgo9whXfZsbMwDuD/102a/IuPUMyF+dh/n3PbWzJ6igA=="
+      "version": "2.0.5",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-development-mode-detector/-/vaadin-development-mode-detector-2.0.5.tgz",
+      "integrity": "sha512-miirBQw10UHjKwRv29iZniXCo41cLg3wFotoyTeUZ2PTGIDk/fZVFr4Q4WVKZrp3D15878vz94nNQROSmPLjdg=="
     },
     "@vaadin/vaadin-dialog": {
       "version": "2.6.0",
@@ -406,9 +406,9 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.9.2",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.9.2.tgz",
-      "integrity": "sha512-KzFKj46hElnE+TMbPU4xeTSrSwYW/4WkwAp+a0sx2daWYp/NdOkw+weDFF5zjF7Wt/k3AK0hxh9Hdg8QxdFU+w==",
+      "version": "5.9.3",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.9.3.tgz",
+      "integrity": "sha512-75np3IZ6lG9KA+xsE9IdOpyTBh0C1GFKYrJLw33PVhmUMHxtBniqiw/t9mGe1p807lvGIL5TXgEVLLr7WOndVQ==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -695,9 +695,9 @@
       }
     },
     "@vaadin/vaadin-text-field": {
-      "version": "2.9.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.9.0.tgz",
-      "integrity": "sha512-y7z/w/nKFlcUDZiys7Nz5apkmHrsoydhghooDJdfTiydx/fzp4dO1pqxoKlrB624seJZe9DpnCYd7Yx8kzYnGw==",
+      "version": "2.9.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.9.1.tgz",
+      "integrity": "sha512-RI98fSVwID6SEXMgUdGuLCKhHnsHUwjgBuwlBjBSh6sPDZRLJFA2FVueXJgn2taoxLQrn2eQNJcn8qZMChuURg==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.1",
@@ -747,9 +747,9 @@
       }
     },
     "@vaadin/vaadin-usage-statistics": {
-      "version": "2.1.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-usage-statistics/-/vaadin-usage-statistics-2.1.0.tgz",
-      "integrity": "sha512-e81nbqY5zsaYhLJuOVkJkB/Um1pGK5POIqIlTNhUfjeoyGaJ63tiX8+D5n6F+GgVxUTLUarsKa6SKRcQel0AzA==",
+      "version": "2.1.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-usage-statistics/-/vaadin-usage-statistics-2.1.2.tgz",
+      "integrity": "sha512-xKs1PvRfTXsG0eWWcImLXWjv7D+f1vfoIvovppv6pZ5QX8xgcxWUdNgERlOOdGt3CTuxQXukTBW3+Qfva+OXSg==",
       "requires": {
         "@vaadin/vaadin-development-mode-detector": "^2.0.0"
       }

@@ -647,9 +647,9 @@
       }
     },
     "@vaadin/vaadin-select": {
-      "version": "2.4.2",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-select/-/vaadin-select-2.4.2.tgz",
-      "integrity": "sha512-4eK59JFXVgXx3rQasOjbRRG4AmdowK2VlJrkfOxJfYDalZshM+xL8k9v+Gch0rmSLjIOLBVeVPSw0cv0sdVQgA==",
+      "version": "2.4.3",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-select/-/vaadin-select-2.4.3.tgz",
+      "integrity": "sha512-M9dJX6tB3bkgvB5T7F9DBbdpfhOM+B2CJnFdlM6PhdPK+DVcG3u5hInZNsj5QOXOBlPKsIv56KakX2nnjINAxQ==",
       "requires": {
         "@polymer/iron-media-query": "^3.0.0",
         "@polymer/iron-resizable-behavior": "^3.0.0",
@@ -667,9 +667,9 @@
       }
     },
     "@vaadin/vaadin-split-layout": {
-      "version": "4.3.0",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-split-layout/-/vaadin-split-layout-4.3.0.tgz",
-      "integrity": "sha512-FspWKg1kUygDYjpBA0y9y8NF2dhniYhLtPr1Ny9JU72fBUyOKOsXYRoFxsmEUPfG9K3SI6ecgk9HiieS+rLHjA==",
+      "version": "4.3.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-split-layout/-/vaadin-split-layout-4.3.1.tgz",
+      "integrity": "sha512-MOTq+1H+e4ohP+RLeoges9FtxDue1w8IqB9ZeUmMgzzKaPSAskBdmP3+4CMuaawWc3FNEZXW69kbxiK8HZkKLA==",
       "requires": {
         "@polymer/iron-resizable-behavior": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
@@ -695,9 +695,9 @@
       }
     },
     "@vaadin/vaadin-text-field": {
-      "version": "2.9.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.9.1.tgz",
-      "integrity": "sha512-RI98fSVwID6SEXMgUdGuLCKhHnsHUwjgBuwlBjBSh6sPDZRLJFA2FVueXJgn2taoxLQrn2eQNJcn8qZMChuURg==",
+      "version": "2.9.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.9.2.tgz",
+      "integrity": "sha512-2srIvwE/zZBUeiuzkl6Ais7DRkSEFXRejgew3HTwbRNnPtQDaqHfMLcp8ijIkPHM4ZxHqi4gKuJrTL9acPCMTA==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.1",

@@ -406,9 +406,9 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.9.3",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.9.3.tgz",
-      "integrity": "sha512-75np3IZ6lG9KA+xsE9IdOpyTBh0C1GFKYrJLw33PVhmUMHxtBniqiw/t9mGe1p807lvGIL5TXgEVLLr7WOndVQ==",
+      "version": "5.9.4",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.9.4.tgz",
+      "integrity": "sha512-UrWu4BmAwmCVQOqDeiZal/OfZbTntMn2Ctl3H0QTvz2A1YteKb0Z13R4+79xZAqZR/88M4mBohcF5rzMXHtA4g==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",

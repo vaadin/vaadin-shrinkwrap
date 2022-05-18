@@ -316,9 +316,9 @@
       }
     },
     "@vaadin/vaadin-date-picker": {
-      "version": "4.4.2",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-picker/-/vaadin-date-picker-4.4.2.tgz",
-      "integrity": "sha512-QvbdDDZN/v1YpO93DX13AcWzDd1nMbXr3PUIVmmmxfsUTEacOJ00UFhzrMOM9uq53vzPBOwzDrT2h5q5bmshYQ==",
+      "version": "4.4.3",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-date-picker/-/vaadin-date-picker-4.4.3.tgz",
+      "integrity": "sha512-etwRdoXMH+R+TK8xWJSs0z3n06xI1hlGQiCjr6XzDys1zfiWtOYl7zqnXFfM21Ej5CuuUKvqktazZPBONi3ptw==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -406,9 +406,9 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.9.5",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.9.5.tgz",
-      "integrity": "sha512-X9zEAA+Ryvm3dgANyu+n6a+nJNRpkL0xWhgLfsscspaiQE88YQwxPQjrr2si3mOXAHL1sBkeVE7rk6l8IlAZTQ==",
+      "version": "5.9.6",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.9.6.tgz",
+      "integrity": "sha512-68X6i7f2MRfE/+/Qf/m74jk06JGUiH10uTVZc6aenV6vm+K4Q16iTbVdiCQVWMXom+g70qB5WQK4+KZEY0mO+A==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",

@@ -38,7 +38,7 @@
         "@vaadin/vaadin-date-picker": "^4.5.0",
         "@vaadin/vaadin-date-time-picker": "^1.4.0",
         "@vaadin/vaadin-details": "^1.2.1",
-        "@vaadin/vaadin-development-mode-detector": "^2.0.5",
+        "@vaadin/vaadin-development-mode-detector": "^2.0.6",
         "@vaadin/vaadin-dialog": "^2.6.0",
         "@vaadin/vaadin-element-mixin": "^2.4.2",
         "@vaadin/vaadin-form-layout": "^2.3.0",
@@ -430,9 +430,9 @@
       }
     },
     "node_modules/@vaadin/vaadin-development-mode-detector": {
-      "version": "2.0.5",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-development-mode-detector/-/vaadin-development-mode-detector-2.0.5.tgz",
-      "integrity": "sha512-miirBQw10UHjKwRv29iZniXCo41cLg3wFotoyTeUZ2PTGIDk/fZVFr4Q4WVKZrp3D15878vz94nNQROSmPLjdg=="
+      "version": "2.0.6",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-development-mode-detector/-/vaadin-development-mode-detector-2.0.6.tgz",
+      "integrity": "sha512-N6a5nLT/ytEUlpPo+nvdCKIGoyNjPsj3rzPGvGYK8x9Ceg76OTe1xI/GtN71mRW9e2HUScR0kCNOkl1Z63YDjw=="
     },
     "node_modules/@vaadin/vaadin-dialog": {
       "version": "2.6.0",
@@ -1212,9 +1212,9 @@
       }
     },
     "@vaadin/vaadin-development-mode-detector": {
-      "version": "2.0.5",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-development-mode-detector/-/vaadin-development-mode-detector-2.0.5.tgz",
-      "integrity": "sha512-miirBQw10UHjKwRv29iZniXCo41cLg3wFotoyTeUZ2PTGIDk/fZVFr4Q4WVKZrp3D15878vz94nNQROSmPLjdg=="
+      "version": "2.0.6",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-development-mode-detector/-/vaadin-development-mode-detector-2.0.6.tgz",
+      "integrity": "sha512-N6a5nLT/ytEUlpPo+nvdCKIGoyNjPsj3rzPGvGYK8x9Ceg76OTe1xI/GtN71mRW9e2HUScR0kCNOkl1Z63YDjw=="
     },
     "@vaadin/vaadin-dialog": {
       "version": "2.6.0",

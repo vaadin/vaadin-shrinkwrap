@@ -43,7 +43,7 @@
         "@vaadin/vaadin-element-mixin": "^2.4.2",
         "@vaadin/vaadin-form-layout": "^2.3.0",
         "@vaadin/vaadin-grid": "^5.9.7",
-        "@vaadin/vaadin-grid-pro": "^2.3.1",
+        "@vaadin/vaadin-grid-pro": "^2.3.2",
         "@vaadin/vaadin-icons": "^4.3.2",
         "@vaadin/vaadin-item": "^2.3.0",
         "@vaadin/vaadin-list-box": "^1.4.0",
@@ -263,9 +263,9 @@
       }
     },
     "node_modules/@vaadin/vaadin-checkbox": {
-      "version": "2.5.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-checkbox/-/vaadin-checkbox-2.5.1.tgz",
-      "integrity": "sha512-Y7GfhOmZPJvAudda7SqCkXaYwC0bUwqyIW9D+P/KjTECKuvwxLaQSl2PssWv0q2ZMk5JV9I2d1ABz8y8r/qb7g==",
+      "version": "2.6.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-checkbox/-/vaadin-checkbox-2.6.0.tgz",
+      "integrity": "sha512-QFyjFuaGhXlk1Imcm4SKna40IS7P+jDE01OCKBHYztIQWqRuTuCVrB3gml85chbMS6+Ap2Vid2vefnidzziz8g==",
       "dependencies": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.1",
@@ -472,39 +472,39 @@
       }
     },
     "node_modules/@vaadin/vaadin-grid": {
-      "version": "5.9.7",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.9.7.tgz",
-      "integrity": "sha512-4+DoChPFTnUGua2WOV8kh5Bu9PtYUv7f9xZObL0D8+Sn4RLQIXmBH0dI5uDTApsBa5m8AtfXbxJW2u+55f0Y/w==",
+      "version": "5.10.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.10.0.tgz",
+      "integrity": "sha512-sVC6ncnIg8Calm+Fwz3xpanr9IB0GWSzt+og+aDvQ9vA9T4/OQQgWpzgNcJK16lWAKwTLzEN5sznkprW9PmYYA==",
       "dependencies": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
         "@polymer/iron-resizable-behavior": "^3.0.0",
         "@polymer/iron-scroll-target-behavior": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
-        "@vaadin/vaadin-checkbox": "^2.4.0",
+        "@vaadin/vaadin-checkbox": "^2.6.0",
         "@vaadin/vaadin-element-mixin": "^2.4.1",
         "@vaadin/vaadin-lumo-styles": "^1.6.0",
         "@vaadin/vaadin-material-styles": "^1.3.2",
-        "@vaadin/vaadin-text-field": "^2.7.0",
+        "@vaadin/vaadin-text-field": "^2.10.0",
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },
     "node_modules/@vaadin/vaadin-grid-pro": {
-      "version": "2.3.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.3.1.tgz",
-      "integrity": "sha512-4Mia1RVwcAZ62aJUhrr7f+bWmfkzv0IBx7Yhq4xfqAG/0qJqrtj3JX7WGFPEcB6E7MFy726fJwGjCEtrFObyBA==",
+      "version": "2.4.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.4.1.tgz",
+      "integrity": "sha512-4N9eCySEX3/E9Ti8C1Q2BeaLQyDmp4E57ApPq45r7dKSGoHsLEvPsfgq2n1hzOD+rKYNKpbHjawMS1qEvjqlmw==",
       "dependencies": {
         "@polymer/polymer": "^3.0.0",
-        "@vaadin/vaadin-checkbox": "^2.4.0",
+        "@vaadin/vaadin-checkbox": "^2.6.0",
         "@vaadin/vaadin-element-mixin": "^2.4.1",
-        "@vaadin/vaadin-grid": "^5.7.0",
+        "@vaadin/vaadin-grid": "^5.10.0",
         "@vaadin/vaadin-item": "^2.3.0",
         "@vaadin/vaadin-license-checker": "^2.1.0",
         "@vaadin/vaadin-list-box": "^1.4.0",
         "@vaadin/vaadin-lumo-styles": "^1.6.0",
         "@vaadin/vaadin-material-styles": "^1.3.2",
-        "@vaadin/vaadin-select": "^2.3.0",
-        "@vaadin/vaadin-text-field": "^2.7.0",
+        "@vaadin/vaadin-select": "^2.5.0",
+        "@vaadin/vaadin-text-field": "^2.10.0",
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },
@@ -711,9 +711,9 @@
       }
     },
     "node_modules/@vaadin/vaadin-select": {
-      "version": "2.4.4",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-select/-/vaadin-select-2.4.4.tgz",
-      "integrity": "sha512-EjLaVQS1E8EdNR9NdXazDnQZntS+hLRsGWNpm1+5c4/NKcR6P4tVo+lWJQZkPSKy9WMm835tNYOizNc1EhaMpg==",
+      "version": "2.5.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-select/-/vaadin-select-2.5.0.tgz",
+      "integrity": "sha512-4hhYJCCtuuzWYhzAPc/zsUFlrP3BX4pn0CZBmUfvy/Rl12RqAndUGn7hXzn+GVIP43sFopI2D98P9c8+Q8ePtw==",
       "dependencies": {
         "@polymer/iron-media-query": "^3.0.0",
         "@polymer/iron-resizable-behavior": "^3.0.0",
@@ -726,7 +726,7 @@
         "@vaadin/vaadin-lumo-styles": "^1.6.0",
         "@vaadin/vaadin-material-styles": "^1.3.2",
         "@vaadin/vaadin-overlay": "^3.5.0",
-        "@vaadin/vaadin-text-field": "^2.8.0",
+        "@vaadin/vaadin-text-field": "^2.10.0",
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },
@@ -759,9 +759,9 @@
       }
     },
     "node_modules/@vaadin/vaadin-text-field": {
-      "version": "2.9.2",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.9.2.tgz",
-      "integrity": "sha512-2srIvwE/zZBUeiuzkl6Ais7DRkSEFXRejgew3HTwbRNnPtQDaqHfMLcp8ijIkPHM4ZxHqi4gKuJrTL9acPCMTA==",
+      "version": "2.10.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.10.0.tgz",
+      "integrity": "sha512-jO2c2Ix5T2M2biNaR0DvyPZCb2BhwCZJnu5R5PtP5Mr2nH1EYyGVer5gh0z54vsgGe8Bl8/xe0GOmYJbeJYc2w==",
       "dependencies": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.1",
@@ -1045,9 +1045,9 @@
       }
     },
     "@vaadin/vaadin-checkbox": {
-      "version": "2.5.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-checkbox/-/vaadin-checkbox-2.5.1.tgz",
-      "integrity": "sha512-Y7GfhOmZPJvAudda7SqCkXaYwC0bUwqyIW9D+P/KjTECKuvwxLaQSl2PssWv0q2ZMk5JV9I2d1ABz8y8r/qb7g==",
+      "version": "2.6.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-checkbox/-/vaadin-checkbox-2.6.0.tgz",
+      "integrity": "sha512-QFyjFuaGhXlk1Imcm4SKna40IS7P+jDE01OCKBHYztIQWqRuTuCVrB3gml85chbMS6+Ap2Vid2vefnidzziz8g==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.1",
@@ -1254,39 +1254,39 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.9.7",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.9.7.tgz",
-      "integrity": "sha512-4+DoChPFTnUGua2WOV8kh5Bu9PtYUv7f9xZObL0D8+Sn4RLQIXmBH0dI5uDTApsBa5m8AtfXbxJW2u+55f0Y/w==",
+      "version": "5.10.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.10.0.tgz",
+      "integrity": "sha512-sVC6ncnIg8Calm+Fwz3xpanr9IB0GWSzt+og+aDvQ9vA9T4/OQQgWpzgNcJK16lWAKwTLzEN5sznkprW9PmYYA==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
         "@polymer/iron-resizable-behavior": "^3.0.0",
         "@polymer/iron-scroll-target-behavior": "^3.0.0",
         "@polymer/polymer": "^3.0.0",
-        "@vaadin/vaadin-checkbox": "^2.4.0",
+        "@vaadin/vaadin-checkbox": "^2.6.0",
         "@vaadin/vaadin-element-mixin": "^2.4.1",
         "@vaadin/vaadin-lumo-styles": "^1.6.0",
         "@vaadin/vaadin-material-styles": "^1.3.2",
-        "@vaadin/vaadin-text-field": "^2.7.0",
+        "@vaadin/vaadin-text-field": "^2.10.0",
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },
     "@vaadin/vaadin-grid-pro": {
-      "version": "2.3.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.3.1.tgz",
-      "integrity": "sha512-4Mia1RVwcAZ62aJUhrr7f+bWmfkzv0IBx7Yhq4xfqAG/0qJqrtj3JX7WGFPEcB6E7MFy726fJwGjCEtrFObyBA==",
+      "version": "2.4.1",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid-pro/-/vaadin-grid-pro-2.4.1.tgz",
+      "integrity": "sha512-4N9eCySEX3/E9Ti8C1Q2BeaLQyDmp4E57ApPq45r7dKSGoHsLEvPsfgq2n1hzOD+rKYNKpbHjawMS1qEvjqlmw==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
-        "@vaadin/vaadin-checkbox": "^2.4.0",
+        "@vaadin/vaadin-checkbox": "^2.6.0",
         "@vaadin/vaadin-element-mixin": "^2.4.1",
-        "@vaadin/vaadin-grid": "^5.7.0",
+        "@vaadin/vaadin-grid": "^5.10.0",
         "@vaadin/vaadin-item": "^2.3.0",
         "@vaadin/vaadin-license-checker": "^2.1.0",
         "@vaadin/vaadin-list-box": "^1.4.0",
         "@vaadin/vaadin-lumo-styles": "^1.6.0",
         "@vaadin/vaadin-material-styles": "^1.3.2",
-        "@vaadin/vaadin-select": "^2.3.0",
-        "@vaadin/vaadin-text-field": "^2.7.0",
+        "@vaadin/vaadin-select": "^2.5.0",
+        "@vaadin/vaadin-text-field": "^2.10.0",
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },
@@ -1495,9 +1495,9 @@
       }
     },
     "@vaadin/vaadin-select": {
-      "version": "2.4.4",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-select/-/vaadin-select-2.4.4.tgz",
-      "integrity": "sha512-EjLaVQS1E8EdNR9NdXazDnQZntS+hLRsGWNpm1+5c4/NKcR6P4tVo+lWJQZkPSKy9WMm835tNYOizNc1EhaMpg==",
+      "version": "2.5.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-select/-/vaadin-select-2.5.0.tgz",
+      "integrity": "sha512-4hhYJCCtuuzWYhzAPc/zsUFlrP3BX4pn0CZBmUfvy/Rl12RqAndUGn7hXzn+GVIP43sFopI2D98P9c8+Q8ePtw==",
       "requires": {
         "@polymer/iron-media-query": "^3.0.0",
         "@polymer/iron-resizable-behavior": "^3.0.0",
@@ -1510,7 +1510,7 @@
         "@vaadin/vaadin-lumo-styles": "^1.6.0",
         "@vaadin/vaadin-material-styles": "^1.3.2",
         "@vaadin/vaadin-overlay": "^3.5.0",
-        "@vaadin/vaadin-text-field": "^2.8.0",
+        "@vaadin/vaadin-text-field": "^2.10.0",
         "@vaadin/vaadin-themable-mixin": "^1.6.1"
       }
     },
@@ -1543,9 +1543,9 @@
       }
     },
     "@vaadin/vaadin-text-field": {
-      "version": "2.9.2",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.9.2.tgz",
-      "integrity": "sha512-2srIvwE/zZBUeiuzkl6Ais7DRkSEFXRejgew3HTwbRNnPtQDaqHfMLcp8ijIkPHM4ZxHqi4gKuJrTL9acPCMTA==",
+      "version": "2.10.0",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-text-field/-/vaadin-text-field-2.10.0.tgz",
+      "integrity": "sha512-jO2c2Ix5T2M2biNaR0DvyPZCb2BhwCZJnu5R5PtP5Mr2nH1EYyGVer5gh0z54vsgGe8Bl8/xe0GOmYJbeJYc2w==",
       "requires": {
         "@polymer/polymer": "^3.0.0",
         "@vaadin/vaadin-control-state-mixin": "^2.2.1",

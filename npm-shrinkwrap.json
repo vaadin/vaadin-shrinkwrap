@@ -42,7 +42,7 @@
         "@vaadin/vaadin-dialog": "^2.6.0",
         "@vaadin/vaadin-element-mixin": "^2.4.2",
         "@vaadin/vaadin-form-layout": "^2.3.0",
-        "@vaadin/vaadin-grid": "^5.10.1",
+        "@vaadin/vaadin-grid": "^5.10.2",
         "@vaadin/vaadin-grid-pro": "^2.4.1",
         "@vaadin/vaadin-icons": "^4.3.2",
         "@vaadin/vaadin-item": "^2.3.0",
@@ -473,9 +473,9 @@
       }
     },
     "node_modules/@vaadin/vaadin-grid": {
-      "version": "5.10.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.10.1.tgz",
-      "integrity": "sha512-Zl8gIKxHhOCFEtQSTurfVMZEVml90JIRImIL077HXdQMpGwrVms3iBi76ZGeHcCWlAyJ3lcKHt82WbS+MpzYOg==",
+      "version": "5.10.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.10.2.tgz",
+      "integrity": "sha512-iYcQOg7n8CoPZKlsEDi+PwU+5MSssIPO5mGgesMKnFllQN8QodW8SxUaqvzfjfboe058rQ4/ijtdUCGJf9E15Q==",
       "dependencies": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
@@ -1261,9 +1261,9 @@
       }
     },
     "@vaadin/vaadin-grid": {
-      "version": "5.10.1",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.10.1.tgz",
-      "integrity": "sha512-Zl8gIKxHhOCFEtQSTurfVMZEVml90JIRImIL077HXdQMpGwrVms3iBi76ZGeHcCWlAyJ3lcKHt82WbS+MpzYOg==",
+      "version": "5.10.2",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-grid/-/vaadin-grid-5.10.2.tgz",
+      "integrity": "sha512-iYcQOg7n8CoPZKlsEDi+PwU+5MSssIPO5mGgesMKnFllQN8QodW8SxUaqvzfjfboe058rQ4/ijtdUCGJf9E15Q==",
       "requires": {
         "@polymer/iron-a11y-announcer": "^3.0.0",
         "@polymer/iron-a11y-keys-behavior": "^3.0.0",
